@@ -1,4 +1,4 @@
-package com.example.mad_20012011138_practical_11;
+package com.example.mad_20012011138_practical_11
 
 class NotesData {
     companion object{
